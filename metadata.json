@@ -1,0 +1,6 @@
+{
+  "name": "Aluminum Coil Viewer",
+  "description": "3D visualization of aluminum coils with rolled and unrolled modes based on material specifications.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
